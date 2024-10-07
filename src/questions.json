@@ -1,0 +1,94 @@
+{
+   "questions": [
+      {
+         "id": 1,
+         "ques": "What is the capital of France?",
+         "options": ["London", "Paris", "Berlin", "Madrid"],
+         "correct": "Paris",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 2,
+         "ques": "Who wrote the play Romeo and Juliet?",
+         "options": [
+            "Charles Dickens",
+            "Mark Twain",
+            "William Shakespeare",
+            "J.K. Rowling"
+         ],
+         "correct": "William Shakespeare",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 3,
+         "ques": "What is the largest planet in our solar system?",
+         "options": ["Jupiter", "Saturn", "Mars", "Earth"],
+         "correct": "Jupiter",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 4,
+         "ques": "Which element has the chemical symbol 'O'?",
+         "options": ["Silver", "Gold", "Iron", "Oxygen"],
+         "correct": "Oxygen",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 5,
+         "ques": "In which year did the Titanic sink?",
+         "options": ["1914", "1912", "1916", "1918"],
+         "correct": "1912",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 6,
+         "ques": "Who painted the Mona Lisa?",
+         "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet"
+         ],
+         "correct": "Leonardo da Vinci",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 7,
+         "ques": "What is the smallest prime number?",
+         "options": ["0", "1", "3", "2"],
+         "correct": "2",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 8,
+         "ques": "Which country is known as the Land of the Rising Sun?",
+         "options": ["China", "Japan", "Korea", "Vietnam"],
+         "correct": "Japan",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 9,
+         "ques": "What is the hardest natural substance on Earth?",
+         "options": ["Gold", "Diamond", "Iron", "Silver"],
+         "correct": "Diamond",
+         "selected": "",
+         "isCorrect": ""
+      },
+      {
+         "id": 10,
+         "ques": "Which continent is the Sahara Desert located on?",
+         "options": ["Africa", "Asia", "Europe", "South America"],
+         "correct": "Africa",
+         "selected": "",
+         "isCorrect": ""
+      }
+   ]
+}
